@@ -101,4 +101,8 @@ Este MVP representa uma base sólida para **monitoramento industrial e manutenç
 ---
 
 👨‍💻 **Desenvolvido por:**
-[Seu nome ou nomes do grupo]
+Leonardo Alves Magalhães
+Fábio Camargos Mendes
+Marcos Vinicius dos Santos Morgado
+Bernardo Zandoná Rupolo
+
